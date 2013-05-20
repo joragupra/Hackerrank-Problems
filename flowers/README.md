@@ -21,10 +21,13 @@ Sample output :
 
 13
 
-Explanation :
+Explanation
+-----------
+
 In the example each of you and your friends should buy one flower. in this case you have to pay 13 dollars.
 
-Constraint :
+Constraints
+-----------
 
 1 <= N, K  <= 100
 Each ci is not more than 1000,000
