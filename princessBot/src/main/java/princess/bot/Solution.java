@@ -1,6 +1,6 @@
 package princess.bot;
 
-import java.util.*s;
+import java.util.*;
 import java.util.stream.IntStream;
 
 public class Solution {
